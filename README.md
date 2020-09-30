@@ -15,7 +15,7 @@ C:\Users\ophir.harpaz\Desktop\Hexdec>python hexdec.py
     |[.|O|:][=]|
     |==========|
 
-    Set the game properties using:
+    Set the game propertie's using:
     - the maximal number that will show up;
     - the game mode (d-x for decimal to hexa, x-d for the opposite direction, or both)
 
@@ -30,7 +30,7 @@ To stop the game, click Ctrl+C
 * 30 = 1e
 * 15 = f
 * 0x12 = 35
-Oops, you got that last one wrong...
+Oops, you got that last one wrong.....
 
 Your average response time is 3.110 seconds. Come back again! :)
 ```
